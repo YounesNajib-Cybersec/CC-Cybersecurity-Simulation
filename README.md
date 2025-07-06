@@ -16,6 +16,10 @@ Welcome! This repository contains project files, summaries, and diagrams from th
 - Diagrams.net  
 - Coursera: [Certified Cybersecurity Specialization](https://www.coursera.org/specializations/certified-cybersecurity)
 
----
+## About Me
 
-📄 **Created by YounesNajib** – Aspiring cybersecurity student.
+I am Younes Najib, an aspiring Cybersecurity student, and this repository is part of my practical learning journey in Cybersecurity.
+
+## Project Status
+
+> In progress – started July 2025
