@@ -24,7 +24,7 @@ I am Younes Najib, an aspiring Cybersecurity student, and this repository is par
 > In progress – started July 2025
 ---
 
-## 📁 Week 1 – Risk Matrix Project
+## 📁 Course 1 – Risk Matrix Project
 
 - 📄 [View Project Files on GitHub](https://github.com/YounesNajib-Cybersec/CC-Cybersecurity-Simulation/tree/main/Week1)
 - 🧠 Summary: A basic cybersecurity risk assessment simulation for a fictional e-commerce company called **NovaNest**.
