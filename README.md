@@ -31,5 +31,6 @@ I am Younes Najib, an aspiring Cybersecurity student, and this repository is par
 
 ## 📁 Course 2 – Incident Response & BC/DR
 
-- 📄 [View Project: NovaNest Plan](./Course2/incident_response_plan.md)  
+- 📄 [View Project: NovaNest Plan](./Course2/Incident%20Response%20Plan.md)  
 - 🧠 Summary: A full incident response plan and BC/DR strategy designed for the fictional company **NovaNest**.
+
