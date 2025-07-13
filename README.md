@@ -26,6 +26,10 @@ I am Younes Najib, an aspiring Cybersecurity student, and this repository is par
 
 ## 📁 Course 1 – Risk Matrix Project
 
-- 📄 [View Project Files on GitHub](https://github.com/YounesNajib-Cybersec/CC-Cybersecurity-Simulation/tree/main/Week1)
+- 📄 [View Project Files on GitHub](./Course1/Risk_Assessament_Matrix.md)
 - 🧠 Summary: A basic cybersecurity risk assessment simulation for a fictional e-commerce company called **NovaNest**.
 
+## 📁 Course 2 – Incident Response & BC/DR
+
+- 📄 [View Project: NovaNest Plan](./Course2/incident_response_plan.md)  
+- 🧠 Summary: A full incident response plan and BC/DR strategy designed for the fictional company **NovaNest**.
