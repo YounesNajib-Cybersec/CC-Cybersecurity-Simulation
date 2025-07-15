@@ -36,5 +36,5 @@ I am Younes Najib, an aspiring Cybersecurity student, and this repository is par
 
 ## 📁 Course 3 – Access Control Simulation Project
 
-- 📄 [View Project Files on GitHub](./Access_Control_Policy.md)
+- 📄 [View Project Files on GitHub](./Course3/Access_Control_Policy.md)
 - 🧠 Summary: A simulation of an access control policy and matrix for a fictional company, demonstrating key concepts like RBAC, DAC, MAC, and the use of physical, technical, and administrative controls.
