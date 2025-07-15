@@ -34,3 +34,7 @@ I am Younes Najib, an aspiring Cybersecurity student, and this repository is par
 - 📄 [View Project: NovaNest Plan](./Course2/Incident%20Response%20Plan.md)  
 - 🧠 Summary: A full incident response plan and BC/DR strategy designed for the fictional company **NovaNest**.
 
+## 📁 Course 3 – Access Control Simulation Project
+
+- 📄 [View Project Files on GitHub](./Access_Control_Policy.md)
+- 🧠 Summary: A simulation of an access control policy and matrix for a fictional company, demonstrating key concepts like RBAC, DAC, MAC, and the use of physical, technical, and administrative controls.
